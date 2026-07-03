@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi there 👋 I'm Aditya Jaiswal<br><br>💻 Java Full Stack Developer | MCA Student at VIT University<br><br>I enjoy building scalable web applications and continuously improving my software development skills. I have hands-on experience with Java, Spring Boot, JDBC, Servlets, JSP, HTML, CSS, JavaScript, Bootstrap, SQL, and Git through academic projects, internships, and self-learning.<br><br>Currently, I'm expanding my knowledge in Full Stack Java Development, Data Structures & Algorithms, and modern backend technologies while building real-world projects.<br>
+# Hi there 👋 I'm Aditya Jaiswal<br><br>💻 Java Full Stack Developer | MCA Student at VIT University<br><br>
+
+I enjoy building scalable web applications and continuously improving my software development skills. I have hands-on experience with Java, Spring Boot, JDBC, Servlets, JSP, HTML, CSS, JavaScript, Bootstrap, SQL, and Git through academic projects, internships, and self-learning.<br><br>Currently, I'm expanding my knowledge in Full Stack Java Development, Data Structures & Algorithms, and modern backend technologies while building real-world projects.<br>
 
 
 ## 🌐 Socials:
